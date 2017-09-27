@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:21:49:22 +0700] "GET /app-universitas/pages/jurusan/addJurusan.jsp HTTP/1.1" 200 628 http-bio-8080-exec-1 1258
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:21:49:28 +0700] "POST /app-universitas/jurusan/new HTTP/1.1" 302 - http-bio-8080-exec-2 1394
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:21:49:29 +0700] "GET /app-universitas/jurusan/list HTTP/1.1" 200 1829 http-bio-8080-exec-3 853
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:21:49:31 +0700] "GET /app-universitas/jurusan/update?id=4 HTTP/1.1" 200 719 http-bio-8080-exec-4 409
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:21:49:41 +0700] "POST /app-universitas/jurusan/update HTTP/1.1" 302 - http-bio-8080-exec-5 193
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:21:49:41 +0700] "GET /app-universitas/jurusan/list HTTP/1.1" 200 1834 http-bio-8080-exec-6 44

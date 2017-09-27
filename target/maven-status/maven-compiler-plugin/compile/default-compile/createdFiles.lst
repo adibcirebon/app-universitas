@@ -1,0 +1,17 @@
+com\gmail\adibkun24\universitas\dao\JurusanDao.class
+com\gmail\adibkun24\universitas\Controller\JurusanListController.class
+com\gmail\adibkun24\universitas\Controller\JurusanAddFormController.class
+com\gmail\adibkun24\universitas\Controller\JurusanDeleteController.class
+com\gmail\adibkun24\universitas\dao\KelasDao.class
+com\gmail\adibkun24\universitas\Model\Jurusan.class
+com\gmail\adibkun24\universitas\Controller\MahasiswaAddFormController.class
+com\gmail\adibkun24\universitas\Controller\JurusanUpdateController.class
+com\gmail\adibkun24\universitas\Konfig\KonfigDB.class
+com\gmail\adibkun24\universitas\Controller\KelasListController.class
+com\gmail\adibkun24\universitas\dao\MahasiswaDao.class
+com\gmail\adibkun24\universitas\Model\Mahasiswa.class
+com\gmail\adibkun24\universitas\Controller\KelasDeleteController.class
+com\gmail\adibkun24\universitas\Model\Kelas.class
+com\gmail\adibkun24\universitas\Controller\KelasAddFormController.class
+com\gmail\adibkun24\universitas\Controller\KelasUpdateController.class
+com\gmail\adibkun24\universitas\Controller\MahasiswaListController.class
